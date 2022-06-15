@@ -16,8 +16,6 @@ router.use(express.static(__dirname + "/public/"));
 
 //enviromental variables
 const URL = process.env.MONGODB_URI;
-const API_KEY = process.env.YOUTUBE_API_KEY;
-const searchQuerry = process.env.SEARCH_QUERRY;
 
 app.get("/", (req, res) => {
   res.send("Hello World");
