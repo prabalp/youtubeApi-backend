@@ -55,9 +55,12 @@ NOTE: No autherntication has been added till now, no need to send any JWT or API
 
 
 
-## Documentation
+## Reference
 
-[Documentation](https://linktodocumentation)
+[YouTube data v3 API](https://developers.google.com/youtube/v3/getting-started)
+
+[Search API reference](https://developers.google.com/youtube/v3/docs/search/list)
+
 
 
 ## MongoDB Atlas 
